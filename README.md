@@ -25,7 +25,6 @@ Make sure you have installed all of the following prerequisites on your developm
 - Git
 - MongoDB
 - Node.js
-- npm
 
 ### Author
 Durgadevi Maheswaran
